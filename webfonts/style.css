@@ -1,0 +1,189 @@
+*{margin: 0;}
+.flex{
+    display: flex;
+}
+.left{
+    background-color: black;
+    border-right: 1px solid gray;
+    position: fixed;
+}
+.right{
+    background-color: black;
+    width: 100%;
+    height: 1200px;
+}
+#o1{
+    font-family: cursive;
+    margin-left: 30px;
+    background-color: black;
+    color: white;
+}
+.top button{
+    background-color: black;
+    color: white;
+}
+#o2{
+    background-color: black;
+    width: 250px;
+    height: 45px;
+    color: white;
+    border: none;
+}
+#o2:hover{
+    background-color: rgb(190, 190, 190);
+    color: black;
+}
+.vniz{
+    margin-top: 241px;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+}
+.img img{
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+}
+.about{
+    margin-top: 40px;
+}
+#o3{
+    width: 90px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 6px;
+}
+#o3:hover{
+    background-color: gray;
+    color: black;
+}
+#o4{
+    width: 90px;
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 6px;
+}
+#o4:hover{
+    background-color: gainsboro;
+    color: black;
+}
+#o5{
+    width: 25px;
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 6px;
+}
+#o5:hover{
+    background-color: gainsboro;
+    color: black;
+}
+#o6{
+    width: 25px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 6px;
+}
+#o6:hover{
+    background-color: gray;
+    color: black;
+}
+.post{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.post img{
+    width: 50px;
+    height: 50px;
+    padding:  3px 30px;
+}
+#t1{
+    color: white;
+    margin-left: 35px;
+}
+#t2{
+    color: white;
+}
+.www{
+    display: flex;
+    justify-content: center;
+}
+.www span{
+    margin: 45px 30px;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+}
+.phot img{
+    width: 250px;
+    height: 200px;
+    margin: 0px 15px;
+    border: 1px solid white;
+}
+.phot img:hover{
+    opacity: 0.4;
+}
+.photo1{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.photo2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.phot:hover .item{
+    z-index: 1;
+}
+.item{
+    color: rgb(233, 233, 233);
+    margin-left: 400px;
+    margin-top: -100px;
+    position: absolute;
+    z-index: -1;
+}
+#w1{
+    margin-left: -130px;
+}
+#w2{
+    margin-left: -130px;
+}
+#w3{
+    margin-left: -130px;
+}
+#w4{
+    margin-left: -140px;
+}
+#w5{
+    margin-left: -115px;
+}
+#w6{
+    margin-left: -105px;
+}
+#w7{
+    margin-left: -140px;
+}
+#w8{
+    margin-left: -140px;
+}
+#w9{
+    margin-left: -120px;
+}
+#w10{
+    margin-left: -140px;
+}
+
+
+
+
